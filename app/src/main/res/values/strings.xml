@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoSizingText</string>
+    <string name="tr">Preset sizes lets you specify all the values that the TextView picks when automatically auto-sizing text</string>
+</resources>
